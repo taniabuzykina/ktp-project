@@ -1,0 +1,67 @@
+[{
+    "lat": 29.18483,
+    "lon": 71.49811,
+    "tz": "+05:00",
+    "date": "2019-01-01",
+    "units": "standard",
+    "cloud_cover": {
+        "afternoon": 4.0
+    },
+    "humidity": {
+        "afternoon": 57.0
+    },
+    "precipitation": {
+        "total": 0.0
+    },
+    "temperature": {
+        "min": 280.29,
+        "max": 295.09,
+        "afternoon": 291.55,
+        "night": 283.42,
+        "evening": 293.04,
+        "morning": 280.29
+    },
+    "pressure": {
+        "afternoon": 1020.0
+    },
+    "wind": {
+        "max": {
+            "speed": 3.15,
+            "direction": 198.0
+        }
+    }
+},
+{
+    "lat": 29.18483,
+    "lon": 71.49811,
+    "tz": "+05:00",
+    "date": "2019-01-02",
+    "units": "standard",
+    "cloud_cover": {
+        "afternoon": 0.0
+    },
+    "humidity": {
+        "afternoon": 60.0
+    },
+    "precipitation": {
+        "total": 0.0
+    },
+    "temperature": {
+        "min": 281.4,
+        "max": 294.65,
+        "afternoon": 290.49,
+        "night": 285.88,
+        "evening": 292.13,
+        "morning": 281.5
+    },
+    "pressure": {
+        "afternoon": 1022.0
+    },
+    "wind": {
+        "max": {
+            "speed": 3.02,
+            "direction": 6.0
+        }
+    }
+}
+]
